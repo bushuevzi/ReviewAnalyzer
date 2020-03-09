@@ -1,0 +1,9 @@
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\bin\Debug\netstandard2.0\ReviewAnalyzerML.Model.deps.json
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\bin\Debug\netstandard2.0\ReviewAnalyzerML.Model.dll
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\bin\Debug\netstandard2.0\ReviewAnalyzerML.Model.pdb
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\obj\Debug\netstandard2.0\ReviewAnalyzerML.Model.csprojAssemblyReference.cache
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\obj\Debug\netstandard2.0\ReviewAnalyzerML.Model.AssemblyInfoInputs.cache
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\obj\Debug\netstandard2.0\ReviewAnalyzerML.Model.AssemblyInfo.cs
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\obj\Debug\netstandard2.0\ReviewAnalyzerML.Model.dll
+C:\Users\Захар\source\repos\ML\ReviewAnalyzer\ReviewAnalyzerML.Model\obj\Debug\netstandard2.0\ReviewAnalyzerML.Model.pdb

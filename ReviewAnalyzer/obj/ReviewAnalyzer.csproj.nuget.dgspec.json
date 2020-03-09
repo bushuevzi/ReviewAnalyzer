@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzer\\ReviewAnalyzer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\ReviewAnalyzerML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\ReviewAnalyzerML.Model.csproj",
+        "projectName": "ReviewAnalyzerML.Model",
+        "projectPath": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\ReviewAnalyzerML.Model.csproj",
+        "packagesPath": "C:\\Users\\Захар\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Захар\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0-preview, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzer\\ReviewAnalyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzer\\ReviewAnalyzer.csproj",
+        "projectName": "ReviewAnalyzer",
+        "projectPath": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzer\\ReviewAnalyzer.csproj",
+        "packagesPath": "C:\\Users\\Захар\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Захар\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\ReviewAnalyzerML.Model.csproj": {
+                "projectPath": "C:\\Users\\Захар\\source\\repos\\ML\\ReviewAnalyzer\\ReviewAnalyzerML.Model\\ReviewAnalyzerML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
